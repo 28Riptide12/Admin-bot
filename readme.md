@@ -116,3 +116,7 @@ Please credit it me if you decide to use this bot.
 
 Github- https://github.com/28Riptide12
 
+Discord- Riptide12#0065
+
+
+
