@@ -27,7 +27,8 @@ The best option is go give the bot `Administrator` permissions, but you can do i
 - Read & Send Messages ~  If the bot isn't able to read messages or send messages, it doesn't respond to your requests.
 - Manage Channels ~ (required) This is needed so the bot is able to create / edit / delete channels.
 - Embed Links & Message Attachments ~ (required) Without the bot isn't able to send 9/10 messages.
-- Add Reactions ~ (required) This is needed to show that the ticket owner has received the reply and to be able to setup the ticket claim system.
+- Add Reactions ~ (optional)
+
 
 **Starting the bot**
 
