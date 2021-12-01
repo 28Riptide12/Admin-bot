@@ -33,7 +33,7 @@ The best option is go give the bot `Administrator` permissions, but you can do i
 
 **Starting the bot**
 
-In `.env` fill in the gaps.
+create a  `.env` and paste the code into that file while replacing the gaps .
 
 This is what you should fill in:
 
