@@ -59,7 +59,7 @@ client.on('ready', () => {
 
 **Intents**
 
-Please not that for some commands to work these intents are required and should not be deleted else there will be errors. 
+Please note that for some commands to work these intents are required and should not be deleted else there will be errors. 
 
 `GUILD_MEMBERS` option must be ticked in the discord developer portal under the bot section. If this option is not ticked you will recieve errors and the bot wont work properly.
 
