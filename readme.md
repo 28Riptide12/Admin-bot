@@ -42,6 +42,7 @@ TOKEN= <discord bot token>
 MONGO_URi= <mongodb url>
 
 ```
+
 **Owners and Servers**
 
 
@@ -80,6 +81,33 @@ const client = new DiscordJS.Client({
     ],
 })
 ```
+
+
+
+
+
+  **Prefix**
+The default is set to `>` you cange the prefix by changing the code below in `index.ts`
+
+```js
+  })
+
+    .setDefaultPrefix('{Prefix here}')
+    
+
+    
+})
+```
+
+**Other Info** 
+
+once you have done all these steps you can now run the bot with
+
+`Npm run dev` 
+
+
+
+
 
 
 **Credit information**
