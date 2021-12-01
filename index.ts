@@ -2,7 +2,6 @@
 import DiscordJS, { Intents } from 'discord.js'
 import WOKCommands from 'wokcommands'
 import path from 'path'
-import { DisTube } from 'distube'
 import mongoose from 'mongoose'
 import dotenv from 'dotenv'
 dotenv.config()
