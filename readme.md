@@ -105,7 +105,24 @@ once you have done all these steps you can now run the bot with
 
 `Npm run dev` 
 
+## Commands and features
+This bot has slash command support.
 
+**Moderation**
+
+`Kick` - Kicks a user 
+`ban ` - bans a user
+`nick` - sets a nickname for a user
+`Clear` - Clears a set amount a message
+`Status` - {bot owner only} sets the bot status
+`setwelcome` - sets a welcome channel and message
+`simjoin` - Simulates a user join 
+
+**General**
+
+`info`- gives bot info
+`ping`- Sends bot latency
+`help` - gives command list {remove help.ts to activate the default}
 
 
 
