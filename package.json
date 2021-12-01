@@ -1,14 +1,14 @@
 {
-  "name": "robloxbot",
+  "name": "bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a admin discord bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Riptide12",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.7.0",
