@@ -99,7 +99,7 @@ The default is set to `>` you cange the prefix by changing the code below in `in
 })
 ```
 
-**Other Info** 
+##**Other Info** 
 
 once you have done all these steps you can now run the bot with
 
@@ -110,7 +110,7 @@ once you have done all these steps you can now run the bot with
 
 
 
-**Credit information**
+##**Credit information**
 
 Please credit it me if you decide to use this bot.
 
