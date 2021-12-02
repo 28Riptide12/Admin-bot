@@ -17,7 +17,7 @@ import { ICommand } from "wokcommands";
          * @param {String[]} args 
          */
     
-         callback: async({ client, message, interaction, args }) => {
+         callback: async({ client, message, args }) => {
             if (message) {
                 const msg = await message.channel.send ({content: `> 🏓 Pinging..`})
                 msg.edit({content: `> 🏓 Pong! Latency: **${client.ws.ping}ms**`})
