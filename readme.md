@@ -8,11 +8,6 @@ npm i wokcommands
 npm i discord.js dotenv
 
 npm install -g typescript ts-node
-
-npm i moment 
-
-npm i quick.db
-
 ```
 
 Install all needed dependencies in order to work.
