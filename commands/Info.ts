@@ -12,9 +12,9 @@ export default {
 
     callback: ({ message, text }) => {
         const embed = new MessageEmbed()
-        .setTitle('INFO')
-        .setFooter('Developed by: Riptide12#0065, Co-Developed by:  Bluer_00#0001')
-        .setDescription("**__COMING SOON__**")
+        .setTitle('ADMIN BOT INFO')
+        .setFooter('Developed by: Riptide12#0065')
+        .setDescription("Admin bot is a multifunction discord bot.\n\ngithub-https://github.com/28Riptide12/Admin-bot \n\nPlease credit me when you use this bot in your discord servers")
 
         return embed
     }
