@@ -25,7 +25,7 @@ client.on('ready', () => {
         typeScript: true,
         testServers: ['897667144739880970', '912571434168107008', '912570291325141013'],
         mongoUri: process.env.MONGO_URI,
-        botOwners: ['504666813913628682', '631390340598857728'] 
+        botOwners: ['{BOT OWNERS HERE}'] 
         
     })
 
